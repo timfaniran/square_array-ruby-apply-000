@@ -1,6 +1,5 @@
 def square_array(array)
   # your code here
-  for i in array
 arr = [1,2,3]
  arr.each {|i| puts i**2}
  puts
