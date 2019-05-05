@@ -1,6 +1,6 @@
 def square_array(array)
   # your code here
-arr = [1,2,3]
+arr = []
  arr.each {|i| puts i**2}
 end
 
